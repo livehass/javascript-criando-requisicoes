@@ -1,1 +1,5 @@
-const lista = document.querySelector("[data-lista]")
+const lista = document.querySelector("[data-lista]");
+
+function constroiCard(){
+    
+}
