@@ -20,5 +20,5 @@ function constroiCard(){
 }
 
 async function listaVideo(){
-    
+    const lista = await conectaApi.listaVideos();
 }
