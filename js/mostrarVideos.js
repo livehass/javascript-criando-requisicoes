@@ -12,7 +12,7 @@ function constroiCard(){
         <img src="./img/logo.png" alt="logo canal alura">
         <h3>Qual é o melhor hardware para programação com Mario Souto</h3>
         <p>236 mil visualizações</p>
-    <div>      
+    </div>      
     `
-  
+    return video;
 }
