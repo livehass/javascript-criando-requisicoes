@@ -2,86 +2,86 @@
   "videos": [
     {
       "id": 1,
-      "titulo": "O que é e pra que serve a linguagem Go? #HipstersPontoDicas",
-      "descricao": "21 mil mil visualizações",
-      "url": "https://www.youtube.com/embed/KfCNyIrqjsg",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+      "titulo": "Amés - Done To Me 🧡",
+      "descricao": "814 mil mil visualizações",
+      "url": "https://www.youtube.com/embed/fpvxJcQj30U",
+      "imagem": "https://yt3.googleusercontent.com/ytc/AGIKgqP1XttY5qlqOL8Dg2KfTftCiXkbxX3CKPZwBZ_I9A=s176-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": 2,
-      "titulo": "Desmistificando mobile - Linguagens e Frameworks",
-      "descricao": "1,5 mil visualizações",
-      "url": "https://www.youtube.com/embed/fmu1LQvZhms",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+      "titulo": "Tchami - Promesses (Pep & Rash Bootleg)",
+      "descricao": "14 mi visualizações",
+      "url": "https://www.youtube.com/embed/jU8q9E6Zhx8",
+      "imagem": "https://yt3.googleusercontent.com/ytc/AGIKgqP1XttY5qlqOL8Dg2KfTftCiXkbxX3CKPZwBZ_I9A=s176-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": 3,
-      "titulo": "Orientação a objetos com Roberta Arcoverde | #Hipster...",
-      "descricao": "30 mil visualizações",
-      "url": "https://www.youtube.com/embed/jpuJ1qrluoU",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+      "titulo": "LOLO ft. Giggs - Gangsters (XYconstant Remix)",
+      "descricao": "11 mi visualizações",
+      "url": "https://www.youtube.com/embed/vTkAjASE3lg",
+      "imagem": "https://yt3.googleusercontent.com/ytc/AGIKgqP1XttY5qlqOL8Dg2KfTftCiXkbxX3CKPZwBZ_I9A=s176-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": 4,
-      "titulo": "O que é Data Science? #HipstersPontoTube",
-      "descricao": "318 mil visualizações",
-      "url": "https://www.youtube.com/embed/5b9Z8toVaAU",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+      "titulo": "Kronic - Rendezvous ft. Leon Thomas (Tom Budin Remix",
+      "descricao": "1,5 mi visualizações",
+      "url": "https://www.youtube.com/embed/9HqGJG0-O-4",
+      "imagem": "https://yt3.googleusercontent.com/ytc/AGIKgqP1XttY5qlqOL8Dg2KfTftCiXkbxX3CKPZwBZ_I9A=s176-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": 5,
-      "titulo": "Preciso fazer faculdade para trabalhar com programação e tecnologia? #HipstersPontoTube",
-      "descricao": "124 mil visualizações",
-      "url": "https://www.youtube.com/embed/jw06H8esyzQ",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+      "titulo": "Janet Jackson ft. Nelly - Call On Me (Disclosure Remix)",
+      "descricao": "501 mil visualizações",
+      "url": "https://www.youtube.com/embed/940KUzAH6Ak",
+      "imagem": "https://yt3.googleusercontent.com/ytc/AGIKgqP1XttY5qlqOL8Dg2KfTftCiXkbxX3CKPZwBZ_I9A=s176-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": 6,
-      "titulo": "Híbridos: Flutter e React Native | Desmistificando..",
-      "descricao": "1,6 mil visualizações",
-      "url": "https://www.youtube.com/embed/vf9P_PycgRw",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+      "titulo": "The Subculture - Alive (ft. Nikki Ambers)",
+      "descricao": "436 mil visualizações",
+      "url": "https://www.youtube.com/embed/fmBD7oWHGBs",
+      "imagem": "https://yt3.googleusercontent.com/ytc/AGIKgqP1XttY5qlqOL8Dg2KfTftCiXkbxX3CKPZwBZ_I9A=s176-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": 7,
-      "titulo": "Guia de carreira DATA SCIENCE | #HipstersPontoTube",
-      "descricao": "22 mil visualizações",
-      "url": "https://www.youtube.com/embed/7KhaiCC3fJQ",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+      "titulo": "Ellis & Laura Brehm - Start Over (ELS VIP)",
+      "descricao": "152 mil visualizações",
+      "url": "https://www.youtube.com/embed/o-Lcfsc2RMg",
+      "imagem": "https://yt3.googleusercontent.com/ytc/AGIKgqP1XttY5qlqOL8Dg2KfTftCiXkbxX3CKPZwBZ_I9A=s176-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": 8,
-      "titulo": "baNaNa | Memes do JavaScript #2",
-      "descricao": "1,2 mil visualizações",
-      "url": "https://www.youtube.com/embed/HBVCsBtsmzA",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+      "titulo": "Ellis - Fuschia",
+      "descricao": "974 mil visualizações",
+      "url": "https://www.youtube.com/embed/Ki1R9veJddw",
+      "imagem": "https://yt3.googleusercontent.com/ytc/AGIKgqP1XttY5qlqOL8Dg2KfTftCiXkbxX3CKPZwBZ_I9A=s176-c-k-c0x00ffffff-no-rj"
     },
     {
-      "titulo": "[Casa do Código] Live de lançamento: Navegando no Universo da Programação",
-      "descricao": "1 mil visualizações",
-      "url": "https://www.youtube.com/embed/z43rcfjXOxU",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "titulo": "Frost - On My Mind (ft. Leo Kalyan)",
+      "descricao": "4,3 mi visualizações",
+      "url": "https://www.youtube.com/embed/elLdoTZP3Tc",
+      "imagem": "https://yt3.googleusercontent.com/ytc/AGIKgqP1XttY5qlqOL8Dg2KfTftCiXkbxX3CKPZwBZ_I9A=s176-c-k-c0x00ffffff-no-rj",
       "id": 9
     },
     {
-      "titulo": "Educação coorporativa",
-      "descricao": "9 mil visualizações",
-      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "titulo": "TRU Concept & Nu Aspect - Said To You",
+      "descricao": "2,6 mi visualizações",
+      "url": "https://www.youtube.com/embed/mKmS3JiSN7Q",
+      "imagem": "https://yt3.googleusercontent.com/ytc/AGIKgqP1XttY5qlqOL8Dg2KfTftCiXkbxX3CKPZwBZ_I9A=s176-c-k-c0x00ffffff-no-rj",
       "id": 10
     },
     {
-      "titulo": "Educação coorporativa",
-      "descricao": "4 mil visualizações",
-      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "titulo": "XYconstant - Her Eyes",
+      "descricao": "12 mi visualizações",
+      "url": "https://www.youtube.com/embed/dHUP7TO6CVs",
+      "imagem": "https://yt3.googleusercontent.com/ytc/AGIKgqP1XttY5qlqOL8Dg2KfTftCiXkbxX3CKPZwBZ_I9A=s176-c-k-c0x00ffffff-no-rj",
       "id": 11
     },
     {
-      "titulo": "Educação coorporativa",
-      "descricao": "7 mil visualizações",
-      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "titulo": "JLV - Back To You",
+      "descricao": "2,1 mi visualizações",
+      "url": "https://www.youtube.com/embed/IGHJZkylkx8",
+      "imagem": "https://yt3.googleusercontent.com/ytc/AGIKgqP1XttY5qlqOL8Dg2KfTftCiXkbxX3CKPZwBZ_I9A=s176-c-k-c0x00ffffff-no-rj",
       "id": 12
     }
   ]
