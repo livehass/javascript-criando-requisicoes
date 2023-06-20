@@ -4,7 +4,13 @@ async function listaVideos(){
     
     return conexaoConvertida;
 }
+async function criaVideo(){
+    const conexaoVideo = await fetch("http://localhost:3000/videos", {
+        method: "POST",
+    });
+}
 
 export const conectaApi = {
     listaVideos
 }
+
