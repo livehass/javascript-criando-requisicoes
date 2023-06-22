@@ -30,6 +30,7 @@ async function buscaVideo(ParametroParaBusca) {
 }
 export const conectaApi = {
     listaVideos,
-    criaVideo
+    criaVideo,
+    buscaVideo
 }
 
