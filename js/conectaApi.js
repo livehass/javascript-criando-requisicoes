@@ -24,7 +24,9 @@ async function buscaVideo(ParametroParaBusca) {
 
     const conexao = await fetch(`http://localhost/3000/videos?q=${ParametroParaBusca}`);
     
-  
+    const conexaoConvertida = conexao.json();
+    
+    
 }
 export const conectaApi = {
     listaVideos,
