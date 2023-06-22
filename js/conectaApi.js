@@ -26,7 +26,7 @@ async function buscaVideo(ParametroParaBusca) {
     
     const conexaoConvertida = conexao.json();
     
-    
+    return conexaoConvertida;
 }
 export const conectaApi = {
     listaVideos,
