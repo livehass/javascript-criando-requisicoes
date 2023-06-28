@@ -6,3 +6,4 @@ async function buscarVideo(){
 }
 
 const botaoDePesquisa = document.querySelector("data-botao-pesquisa");
+botaoDePesquisa.addEventListener("submit",)
