@@ -5,3 +5,4 @@ async function buscarVideo(){
     const busca = await conectaApi.buscaVideo(dadosDePesquisa);
 }
 
+const botaoDePesquisa = document.querySelector("data-botao-pesquisa");
